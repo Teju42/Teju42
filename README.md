@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Teju42/Teju42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Tejashri**, a Junior Data Explorer in the Making!  
 
-Here are some ideas to get you started:
+🚀 Currently focusing on **Data Analysis, Machine Learning fundamentals, and related technologies**.  
+🎓 Bachelor's degree in Information Technology (Data Science)  
+🌟 Passionate about turning **data into actionable insights**, starting from the basics and growing my skills day by day.  
+🔧 Keen to collaborate on **open-source projects**, learn from the community, and connect with people who share the same curiosity.  
+💬 Feel free to connect, collaborate, or say hi!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:** [tejashriwagh42@gmail.com]
+
+---
+
+🔥 **My Tech Stack:**  
+- **Programming:** Python, SQL  
+- **Tools:** Jupyter, Git, GitHub  
+- **Concepts:** Data Analysis, Machine Learning fundamentals, Database fundamentals  
+
