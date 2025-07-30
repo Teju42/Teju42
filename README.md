@@ -45,7 +45,7 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tejashriwagh/)
+- 🔗 [LinkedIn]: https://www.linkedin.com/in/tejashriwagh/
 - 📬 Email: tejashriwagh42@gmail.com
 - 🌐 Portfolio: *(coming soon)*
 
